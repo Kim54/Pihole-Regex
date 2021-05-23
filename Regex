@@ -39,8 +39,6 @@
 ^adtrack(er|ing)?[0-9]*[_.-]
 ^advert(s|is(ing|ements?))?[0-9]*[_.-]
 ^aff(iliat(es?|ion))?[_.-]
-^analytics?[-.]
-^analytics?[_.-]
 ^banners?[_.-]
 ^beacons?[0-9]*[_.-]
 ^count(ers?)?[0-9]*[_.-]
@@ -105,6 +103,7 @@ r[0-9\-]*\-sn\-[a-z0-9]*\-[0-9a-z]{4}\.googlevideo\.com
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[_.-]
 ^track(ers?|ing)?[0-9]*[_.-]
+^telemetry?[_.-]
 ://ads.
 /googleads.
 /pagead2.
